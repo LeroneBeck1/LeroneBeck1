@@ -1,4 +1,4 @@
-<h1>Hi, I'm Lerone! <br/><a href="https://github.com/joshmadakor1"<a href="https://[https://www.linkedin.com/in/leronebeck/])">Cybersecurity Professional</a>
+<h1>Hi, I'm Lerone! <br/><a href="https://www.linkedin.com/in/leronebeck/"<a href="https://[https://www.linkedin.com/in/leronebeck/])">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
