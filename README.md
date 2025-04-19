@@ -6,13 +6,10 @@
 - [Active Directory Home Lab](https://github.com/LeroneBeck1/Active-Directory-Home-Lab)
 - [Hello World!](https://github.com/LeroneBeck1/Hello-World-)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com)
-
 <h2> 📄 Certifications</h2>
 
 - [Google IT Support Professional](https://www.youtube.com)
+- [ICAgile ICP Certified Professional](https://www.credly.com/earner/earned/badge/5b57a6f7-d096-4df1-8844-d07e71b560c2)
 
 <h2> 🤳 Connect with me:</h2>
 
