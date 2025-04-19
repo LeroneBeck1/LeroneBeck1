@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [SEIM With World Map Visualization](https://github.com/LeroneBeck1/SEIM-With-Windows-VM-Attach-Map)
-- [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Active Directory Home Lab](https://github.com/LeroneBeck1/Active-Directory-Home-Lab)
 - [Hello World!](https://github.com/LeroneBeck1/Hello-World-)
 
 <h2>📺 Popular YouTube Videos</h2>
